@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://AlhassanAbdelhalim.github.io/sitemap.xml
+Sitemap: https://alhassanabdelhalim.github.io/sitemap.xml
